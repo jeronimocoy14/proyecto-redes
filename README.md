@@ -1,7 +1,7 @@
 # Proyecto Final: Diseño e Implementación de una Red Empresarial
 
 **Curso:** Redes y Comunicación de Datos, 2026-2
-**Equipo:** Gabrielle Romandino, Daniel Ortiz, Jerónimo Coy y Martín Guerrero
+**Equipo:** Gabrielle Romandini, Daniel Ortiz, Jerónimo Coy y Martín Guerrero
 **Dominio:** `gdjm.net`
 **Herramienta:** Cisco Packet Tracer 9.0.1
 
@@ -516,7 +516,7 @@ Recomendaciones:
 
 | Integrante | Rol | Actividades específicas y verificables |
 |---|---|---|
-| Gabrielle Romandino | Configuración de red (Cisco) | Configuración de los equipos finales en Packet Tracer: PCs e impresoras (direccionamiento IPv6 por SLAAC y estático, gateways, DNS en los PCs de Madrid) y las aplicaciones Tracker App (PC4) y Tracker Dashboard (PC7) |
+| Gabrielle Romandini | Configuración de red (Cisco) | Configuración de los equipos finales en Packet Tracer: PCs e impresoras (direccionamiento IPv6 por SLAAC y estático, gateways, DNS en los PCs de Madrid) y las aplicaciones Tracker App (PC4) y Tracker Dashboard (PC7) |
 | Daniel Ortiz | Documentación | Elaboración de la documentación técnica del proyecto |
 | Jerónimo Coy | Configuración de red (Cisco) | Configuración de routers, switches, servidores y Multilayer Switch: VLANs y trunks, enrutamiento (EIGRP/OSPF), túnel IPv6 e IPsec, ACLs, SNMP, NTP, DNS, web, DHCPv6 y Tracker Relay |
 | Martín Guerrero | Pruebas | Ejecución y verificación de las pruebas de conectividad, servicios, ACLs, IPsec y Tracker |
